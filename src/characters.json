@@ -1,0 +1,45 @@
+
+[
+    {
+        "id": 0,
+        "name": "Monkey D. Luffy",
+        "image": "https://i.pinimg.com/564x/78/ba/95/78ba953352e2755c50369ba9b97b3942.jpg",
+        "clicked": false
+    },
+    {
+        "id": 1,
+        "name": "Roronoa Zorro",
+        "image": "https://i.pinimg.com/564x/64/c1/7b/64c17bb9c31f2977e384df326bb8880b.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Nami",
+        "image": "https://i.pinimg.com/564x/d5/9c/a4/d59ca42ecb892ceb0c516d6b4cb05da7.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Usopp",
+        "image": "https://i.pinimg.com/564x/08/d5/af/08d5af091184f0633ead4598d320528d.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Vinsmoke Sanji",
+        "image": "https://i.pinimg.com/564x/f6/88/69/f6886934f0d585b8efe5ecdb7078b9c6.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Tony Tony Chopper",
+        "image": "https://i.pinimg.com/564x/b9/3e/de/b93ede3edda40bfdddf7a395dab4a901.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Franky",
+        "image": "https://i.pinimg.com/564x/88/25/c4/8825c4c17010ccab2f8247163b2c59e3.jpg",
+        "clicked": false
+    }
+]
