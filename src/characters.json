@@ -38,8 +38,38 @@
     },
     {
         "id": 6,
+        "name": "Nico Robin",
+        "image": "https://i.pinimg.com/564x/85/76/7a/85767a58bc00476a5e001d0d562d73da.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
         "name": "Franky",
         "image": "https://i.pinimg.com/564x/88/25/c4/8825c4c17010ccab2f8247163b2c59e3.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Brook",
+        "image": "https://i.pinimg.com/564x/9f/dd/f6/9fddf6d5578562988e449d7b61218757.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Jinbei",
+        "image": "https://i.pinimg.com/564x/3c/0e/5a/3c0e5ab1250657450b22c990a804e2be.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Shanks",
+        "image": "https://i.pinimg.com/564x/fe/e7/b7/fee7b70f7d3c5cd588a851368cfbb805.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Marshall D. Teach",
+        "image": "https://i.pinimg.com/564x/6f/56/ed/6f56ed4251bccfe57c80c9fe1f358846.jpg",
         "clicked": false
     }
 ]
