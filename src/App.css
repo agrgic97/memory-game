@@ -4,18 +4,23 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  height: 100vh;
+  background: rgb(252,254,27);
+  background: linear-gradient(360deg, rgba(252,254,27,1) 0%, rgba(152,108,74,1) 90%);
 }
 
-.App {
-  background-image: url("https://wallpapercave.com/wp/wp7482552.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 100vh;
-  opacity: 0.9;
+
+.Game {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
 }
 
 .Header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Title, .Score, .HighScore {
   font-family: 'Pirata One', cursive;
   font-size: 4rem;
   font-weight: 900;
@@ -23,6 +28,31 @@ body {
   color: goldenrod;
   -webkit-text-stroke-color: #000000;
   -webkit-text-stroke-width: 1px;
+}
+
+.GameOver {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 500px;
+  height: 300px;
+  background: #FFF;
+  z-index: 1000;
+}
+
+.Overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: rgba(0, 0, 0, .7);
 }
 
 img {
